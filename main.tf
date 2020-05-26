@@ -121,7 +121,7 @@ resource "oci_core_instance" "main_instance" {
       user = "ubuntu"
       agent = false
       host = self.public_ip
-      private_key = file(var.ssh_key)
+      private_key = file(var.ssh_private_key)
     }
   }
 }

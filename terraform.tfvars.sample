@@ -4,6 +4,7 @@ user_ocid = "ocid1.user.oc1..aaaaaaaajasdasdasdasdasdaq"
 fingerprint = "00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00"
 private_key_path = "/Users/admin/.oci/oci_api_key.pem"
 ssh_public_key = "/Users/admin/.oci/oci_api_key_public.pem"
+ssh_private_key = "/Users/krastin/.oci/id_rsa"
 compartment_ocid = "ocid1.tenancy.oc1..aaaaaaaasdjalkdjalksdjalkdjalksjdkalsjdalk"
 region = "eu-frankfurt-1"
 image_id = "ocid1.image.oc1.eu-frankfurt-1.aaaaaaaaukhdqqokh3evzyqvashnxld2gyl2wx6k5cratnb7hcxij4u7eh3q" # Canonical-Ubuntu-20.04-Minimal-2020.04.23-0
